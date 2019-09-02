@@ -219,3 +219,13 @@ If that doesn't produce any errors then you're good to go.
 
 Go ahead and hit `http://<your_domain_or_local_ip>/<board_name>/wakaba.pl`
 It should create the tables in the database and the first page with the interface. If something gone wrong then it's probably your fault. Shame on you. Or maybe you've just forgotten to edit the `config.pl` file. Tweak it according to your preferences. And also install imagemagick if you will use it (see the actual `congif.pl` ).
+
+
+
+
+
+
+
+
+
+This source code is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 2.0 (navigate here https://creativecommons.org/licenses/by-nc-sa/2.0/ or see the local file LICENSE for more details)
