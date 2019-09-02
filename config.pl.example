@@ -28,7 +28,7 @@
 #use constant SHOWTITLETXT => 1;				# Show TITLE at top (1: yes  0: no)
 #use constant SHOWTITLEIMG => 0;				# Show image at top (0: no, 1: single, 2: rotating)
 #use constant TITLEIMG => 'title.jpg';			# Title image (point to a script file if rotating)
-#use constant FAVICON => 'wakaba.ico';			# Favicon.ico file
+#use constant FAVICON => 'wakaba-reddy.ico';			# Favicon.ico file
 #use constant HOME => '../';					# Site home directory (up one level by default
 #use constant IMAGES_PER_PAGE => 10;			# Images per page
 #use constant REPLIES_PER_THREAD => 10;			# Replies shown
