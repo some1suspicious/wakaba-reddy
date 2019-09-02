@@ -1,3 +1,4 @@
 *.htaccess
 config.pl
 error.log
+*.html
