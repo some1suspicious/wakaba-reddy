@@ -1,0 +1,9 @@
+<div align="center">
+[ 
+  <a href="/exmp/" title="Example">exmp</a> 
+  /
+  <a href="/exmp2/" title="Example 2">exmp2</a> 
+  / 
+  <a href="/" title="test">root</a> <!-- you won't need this as wakaba provides it's own link to home dir -->
+]  
+</div>
