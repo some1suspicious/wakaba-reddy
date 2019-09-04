@@ -1,5 +1,8 @@
 use strict;
 
+# YOU SHOULD NOT EDIT THIS IF YOU DON'T WANT TO MODIFY THE ENGINE ITSELF
+# USE config.pl FOR YOUR OWN SPECIFIC CONFIG
+
 BEGIN {
 	use constant S_NOADMIN => 'No ADMIN_PASS or NUKE_PASS defined in the configuration';	# Returns error when the config is incomplete
 	use constant S_NOSECRET => 'No SECRET defined in the configuration';		# Returns error when the config is incomplete
