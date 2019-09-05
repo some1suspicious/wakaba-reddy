@@ -124,7 +124,7 @@
 #use constant ARCHIVE_DIR => 'arch/';			# Root of archive directories (all need to be writeable by the script)
 #use constant REDIR_DIR => 'redir/';			# Redir directory, used for redirecting clients when load balancing
 #use constant HTML_SELF => 'wakaba.html';		# Name of main html file
-#use constant JS_FILE => 'wakaba.js';			# Location of the js file
+#use constant JS_FILE => 'wakaba-original.js';			# Location of the js file
 #use constant PAGE_EXT => '.html';				# Extension used for board pages after first
 #use constant ERRORLOG => '';					# Writes out all errors seen by user, mainly useful for debugging
 #use constant CONVERT_COMMAND => 'convert';		# location of the ImageMagick convert command (usually just 'convert', but sometime a full path is needed)
