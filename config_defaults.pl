@@ -110,7 +110,7 @@ BEGIN {
 	eval "use constant ARCHIVE_DIR => 'arch/'" unless (defined &ARCHIVE_DIR);
 	eval "use constant REDIR_DIR => 'redir/'" unless (defined &REDIR_DIR);
 	eval "use constant HTML_SELF => 'wakaba.html'" unless(defined &HTML_SELF);
-	eval "use constant JS_FILE => 'wakaba3.js'" unless(defined &JS_FILE);
+	eval "use constant JS_FILE => 'wakaba-original.js'" unless(defined &JS_FILE);
 	eval "use constant CSS_DIR => 'css/'" unless(defined &CSS_DIR);
 	eval "use constant PAGE_EXT => '.html'" unless(defined &PAGE_EXT);
 	eval "use constant ERRORLOG => ''" unless(defined &ERRORLOG);
